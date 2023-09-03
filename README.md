@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm satwik</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align = "right" alt= "coding" width="400" src="![image](https://github.com/Satwik-avs/Satwik-avs/assets/133675012/af60d67d-bc66-497c-b182-d097e42f96e0)
-">
+<img align = "right" alt= "coding" width="400" src="![image](https://github.com/Satwik-avs/Satwik-avs/assets/133675012/c7fd55ee-42be-4b8d-8eb5-7d98553362ec)">
 - 🔭 I’m currently working on **Digital Grading Analysis System**
 
 - 🌱 I’m currently learning **Php,NodeJs**
